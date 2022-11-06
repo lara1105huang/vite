@@ -1,1 +1,0 @@
-import{o as c,c as a,a as n}from"./index.62ae3e33.js";const l=(t,e)=>{const o=t.__vccOpts||t;for(const[r,s]of e)o[r]=s;return o},_={},u=n("h1",null,"404",-1);function f(t,e){return c(),a("div",null,[n("button",{class:"goback",onClick:e[0]||(e[0]=o=>t.$router.push("/"))}),u])}const i=l(_,[["render",f]]);export{i as default};
