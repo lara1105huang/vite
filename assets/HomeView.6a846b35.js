@@ -1,0 +1,1 @@
+import{d as n,o as t,c as a,a as l,t as r,r as c,b as u}from"./index.62ae3e33.js";const _=n({__name:"HelloWorld",props:{msg:null},setup(e){return(s,o)=>(t(),a("div",null,[l("h1",null,r(e.msg),1)]))}}),m=l("h1",null,null,-1),d=n({__name:"HomeView",setup(e){const s=c("Lara vite build");return(o,i)=>(t(),a("div",null,[m,u(_,{msg:s.value},null,8,["msg"])]))}});export{d as default};
